@@ -1,8 +1,0 @@
-[user]
-	name = ten_kisi
-	mail = tenkisi221@gmail.com
-[color]
-	ui = auto
-[core]
-	autocrlf = true
-	editer = vim
