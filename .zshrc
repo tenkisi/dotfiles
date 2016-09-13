@@ -18,3 +18,7 @@ PROMPT="%{$fg[blue]%}[%n@%m]%{$fg[green]%}%~%{$fg[red]%}
 %#->%{$reset_color%}"
 
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+export "PATH=$HOME/bin:$PATH"
+
+alias ls="ls --color=auto"
